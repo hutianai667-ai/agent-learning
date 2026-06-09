@@ -19,3 +19,9 @@ Date: 2026-06-09
 - Git is installed and available in PowerShell.
 - Python is installed and available in PowerShell.
 - Week 0 environment setup is in progress.
+
+## GitHub Sync
+
+- Repository: https://github.com/hutianai667-ai/agent-learning
+- First push: success
+- Branch: main
