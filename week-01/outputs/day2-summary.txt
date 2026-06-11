@@ -1,0 +1,6 @@
+Today I read 144 characters.
+
+Original notes:
+Today I am learning Python file read and write 
+I know git status, git add, git commit, and git push
+I want to use Python to process local notes
