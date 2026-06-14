@@ -1,0 +1,9 @@
+Week 01 Review
+
+1. I practiced Git status add commit push
+2. I practiced Python input and print
+3. I practiced function def return
+4. I practiced if elif else
+5. I practiced list and for
+
+Result: Stage 0 upper practice is getting solid.
