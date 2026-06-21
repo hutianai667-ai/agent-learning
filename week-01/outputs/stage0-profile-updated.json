@@ -1,0 +1,13 @@
+{
+  "name": "hututu",
+  "stage": "Stage 0",
+  "skills": [
+    "Git",
+    "Python",
+    "Branch",
+    "PR",
+    "JSON"
+  ],
+  "completed_upper_stage": true,
+  "today_topic": "Read and write JSON"
+}
