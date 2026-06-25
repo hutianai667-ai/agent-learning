@@ -1,0 +1,14 @@
+{
+  "stage": "Stage 0",
+  "local_profile_name": "hututu",
+  "local_skills": [
+    "Git",
+    "Python",
+    "Branch",
+    "PR"
+  ],
+  "api_user_login": "torvalds",
+  "api_user_name": "Linus Torvalds",
+  "api_user_followers": 308753,
+  "safety_check": "No .env or API key was used."
+}
